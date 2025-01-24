@@ -39,7 +39,7 @@ This is a responsive weather application that allows users to fetch real-time we
 ## Screenshots 📸
 
 ## 📂 Folder Structure
-```bash
+```plaintext
 PRODIGY_WD_03/
 ├── assets/
 │      ├── weather-app-screenshot1.png
@@ -48,4 +48,14 @@ PRODIGY_WD_03/
 ├── index.html          # Main HTML file
 ├── script.js           # JavaScript file for API integration and functionality
 └── styles.css          # CSS file for styling
+```
 
+## Author 🖋️
+Dimpal Baishya
+---
+
+## *📬 Contact Me*
+Feel free to connect with me:
+
+📧 Email: baishyadimpal31@gmail.com
+---
