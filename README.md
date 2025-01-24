@@ -32,4 +32,20 @@ This is a responsive weather application that allows users to fetch real-time we
 2. Navigate to the project directory:
    ```bash
    cd PRODIGY_WD_03
-3. Open the <code>index.html</code>
+3. Open the <code>index.html</code> file in your browser:
+   ```bash
+   open index.html
+
+## Screenshots 📸
+
+## 📂 Folder Structure
+```bash
+PRODIGY_WD_03/
+├── assets/
+│      ├── weather-app-screenshot1.png
+│      ├── weather-app-screenshot2.png
+├── README.md           # Project description and details
+├── index.html          # Main HTML file
+├── script.js           # JavaScript file for API integration and functionality
+└── styles.css          # CSS file for styling
+
