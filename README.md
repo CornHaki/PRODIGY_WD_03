@@ -1,28 +1,27 @@
-# Weather Application 🌤️
+# Tic-Tac-Toe Web Application 🎮
 
-This is a responsive weather application that allows users to fetch real-time weather data using a weather API. The app displays the current weather conditions, temperature, and other relevant information based on the user's location or a user-inputted location.
+A fully interactive and engaging Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScript**. Players can compete against each other or test their skills against an AI opponent. The objective is simple: get three of your markers in a row (horizontally, vertically, or diagonally) to win the game!
 
----
+## Features ✨
+- **Two-player mode:** Play with a friend on the same device.
+- **AI opponent:** Challenge yourself by playing against a computer.
+- **Dynamic game state:** Real-time updates and highlights for winning moves.
+- **Responsive design:** Works smoothly on desktop and mobile devices.
+- **Reset functionality:** Restart the game anytime without reloading the page.
 
-## Features 🌟
+## Tech Stack 🛠️
+- **HTML:** Structure of the game interface.
+- **CSS:** Styling for a clean and visually appealing design.
+- **JavaScript:** Game logic, user interactions, and AI implementation.
 
-- **Location-Based Weather**: Automatically fetches weather data based on the user's current location.
-- **Search Functionality**: Users can input a city name to get weather updates for that location.
-- **Current Weather Conditions**: Displays temperature, humidity, wind speed, and weather description.
-- **Interactive UI**: Includes a clean and user-friendly interface with gradient-themed designs.
-- **Keyboard Interaction**: Fetches weather data when the user presses the "Enter" key.
+## How to Play 🚀
+1. Open the game in your browser.
+2. Choose whether you want to play against a friend or the AI.
+3. Players take turns clicking on empty cells to place their markers (X or O).
+4. The first player to get three in a row (horizontally, vertically, or diagonally) wins.
+5. If all cells are filled without a winner, the game ends in a draw.
+6. Click the **Reset** button to start a new game.
 
----
-
-## Technologies Used 🛠️
-
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling, including gradient designs for squares and circles.
-- **JavaScript**: For fetching data from the weather API and adding interactivity.
-- **Weather API**: To retrieve real-time weather information (e.g., OpenWeatherMap API).
-- **Geolocation API**: For fetching weather data based on the user's current location.
-
----
 
 ## Installation and Usage 🚀
 
@@ -38,9 +37,9 @@ This is a responsive weather application that allows users to fetch real-time we
 ---
 
 ## Screenshots 📸
-![Weather web app Screenshot](assets/image1.png)
-![Weather web app Screenshot](assets/image2.png)
-![Weather web app Screenshot](assets/image3.png)
+![Tic-Tac-Toe web app Screenshot](assets/image1.png)
+![Tic-Tac-Toe web app Screenshot](assets/image2.png)
+![Tic-Tac-Toe web app Screenshot](assets/image3.png)
 ---
 
 ## 📂 Folder Structure
