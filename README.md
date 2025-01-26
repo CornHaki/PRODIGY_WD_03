@@ -35,8 +35,13 @@ This is a responsive weather application that allows users to fetch real-time we
 3. Open the <code>index.html</code> file in your browser:
    ```bash
    open index.html
+---
 
 ## Screenshots 📸
+![Weather web app Screenshot](assets/image1.png)
+![Weather web app Screenshot](assets/image2.png)
+![Weather web app Screenshot](assets/image3.png)
+---
 
 ## 📂 Folder Structure
 ```plaintext
