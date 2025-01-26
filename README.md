@@ -42,8 +42,9 @@ This is a responsive weather application that allows users to fetch real-time we
 ```plaintext
 PRODIGY_WD_03/
 ├── assets/
-│      ├── weather-app-screenshot1.png
-│      ├── weather-app-screenshot2.png
+│      ├── image1.png
+│      ├── image2.png
+│      └── image3.css 
 ├── README.md           # Project description and details
 ├── index.html          # Main HTML file
 ├── script.js           # JavaScript file for API integration and functionality
